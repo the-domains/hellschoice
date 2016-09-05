@@ -28,5 +28,8 @@ navigation:
   - name: Art & Design International
     url: 'http://artanddesign.co.kr/'
     type: external
+  - name: Swagger
+    url: 'http://swagger.kr/'
+    type: external
 favicon: null
 purpose: []
