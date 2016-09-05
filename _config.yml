@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Hellen Choo
+  email: 'hellen.choo@gmail.com '
+  url: www.hellschoice.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/318d1ac0-431d-4a09-9570-e38910478654.jpg
 name: Hell's Choice
 cta:
   domain: null
@@ -32,4 +38,5 @@ navigation:
     url: 'http://swagger.kr/'
     type: external
 favicon: null
+title: 'In with the Good, Out with the Bad'
 purpose: []
