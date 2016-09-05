@@ -19,10 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: hellschoice
+name: Hell's Choice
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Art & Design International
+    url: 'http://artanddesign.co.kr/'
+    type: external
 favicon: null
 purpose: []
